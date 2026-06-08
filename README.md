@@ -7,7 +7,7 @@ EchoMind is a Python-based desktop voice assistant that allows users to interact
 The assistant can perform tasks such as opening applications, searching the web, launching websites, and responding to user queries through voice interaction.
 ✨ Features
 
-🎤 Voice Recognition
+### 🎤 Voice Recognition
 --> Listens to user commands.
 -->Converts speech into text.
 -->Supports real-time interaction.
