@@ -1,20 +1,5 @@
-Desktop Voice Assistant (EchoMind)
+🎙️ EchoMind - AI Desktop Voice Assistant
 📌 Overview
+EchoMind is a Python-based desktop voice assistant that allows users to interact with their computer using voice commands. It combines speech recognition, text-to-speech technology, web automation, and system control to provide a hands-free experience.
 
-EchoMind is a Python-based desktop voice assistant designed to perform system operations and web-based tasks through voice commands. It integrates speech recognition, text-to-speech, and automation capabilities to provide a hands-free, interactive user experience.
-
-🚀 Features
-🎤 Voice Command Recognition using SpeechRecognition
-🔊 Text-to-Speech Response using pyttsx3
-🧠 Hotword Detection to activate the assistant
-🌐 Web Automation (open websites, search queries, etc.)
-💻 System Control (open apps, perform basic operations)
-⚡ Real-time Interaction with minimal latency
-🖥️ Web Interface powered by Eel
-🛠️ Tech Stack
-Programming Language: Python
-Libraries & Tools:
-SpeechRecognition
-pyttsx3
-Eel
-Webbrowser / OS modules
+The assistant can perform tasks such as opening applications, searching the web, launching websites, and responding to user queries through voice interaction.
